@@ -26,6 +26,4 @@ The goal here is to design a system that is difficult to cheat, whether the pers
 •	A timestamped, identity-free audit log for post-election review
 
 
-### Project Summary
 
-### Core Features
