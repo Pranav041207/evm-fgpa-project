@@ -12,11 +12,17 @@ The goal here is to design a system that is difficult to cheat, whether the pers
 
 ## Core Features
 •	Voter authentication using an UART-output barcode scanner
+
 •	Exactly one permitted vote per authenticated voter - no re-use, no double count
+
 •	Live vote counting that stays completely hidden from any display while polling is open
+
 •	Result totals released only after an admin deliberately closes polling
+
 •	A separate admin mode for election setup, live monitoring, and closing polling
+
 •	Tamper detection through a case-open switch and unexpected-reset detection
+
 •	A timestamped, identity-free audit log for post-election review
 
 
